@@ -9,6 +9,12 @@ http://meghana-website-project.s3-website.ap-south-2.amazonaws.com
 
 ---
 
+## Project Status
+
+✅ Completed Successfully
+
+---
+
 ## Project Overview
 
 This project demonstrates how to deploy and host a static website using Amazon S3. The website files were uploaded to an S3 bucket, Static Website Hosting was enabled, and bucket policies were configured to allow public access.
@@ -182,6 +188,13 @@ Solution:
 * Verified index.html configuration.
 
 ---
+
+## Note
+
+All AWS resources used in this project were deleted after successful testing and deployment to avoid unnecessary charges and follow cloud cost-management best practices.
+
+---
+
 
 ## Learning Outcomes
 
