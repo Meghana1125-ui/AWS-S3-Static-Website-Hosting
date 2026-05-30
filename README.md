@@ -78,15 +78,33 @@ Website Content (HTML, CSS, JS, Images)
 
 ## Project Structure
 
-```text
-Foodie/
+AWS-S3-Static-Website-Hosting/
+│
+├── README.md
+├── LICENSE
+│
+├── cloudss/
+│   ├── s3-bucket-created.png
+│   ├── website-files-uploaded.png
+│   ├── static-website-hosting-enabled.png
+│   ├── bucket-policy-configured.png
+│   ├── 403-access-denied.png
+│   ├── website-hosted-successfully.png
+│   ├── region-selected.png
+│   └── failed-to-delete.png
+│
+├── images/
+│   └── website images
+│
+├── icons/
+│   └── website icons
+│
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-├── assets/
-└── other website files
-```
+├── manifest.json
+├── service-worker.js
+
 
 ---
 
