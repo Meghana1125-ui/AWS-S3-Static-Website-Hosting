@@ -28,10 +28,15 @@ The primary objective of this project was to understand AWS S3 hosting, bucket p
 ## ✨ Features
 
 ☁️ Static Website Hosting using Amazon S3
+
 🌍 Public Website Accessibility
+
 🔒 Bucket Policy Configuration
+
 ⚙️ Static Website Hosting Setup
+
 🚀 Cloud-Based Deployment
+
 💰 Resource Cleanup After Deployment
 
 ---
