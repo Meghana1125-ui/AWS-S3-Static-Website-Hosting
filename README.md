@@ -51,13 +51,53 @@ The primary objective of this project was to understand AWS S3 hosting, bucket p
 
 ## Project Architecture
 
+```text
 User Browser
-↓
+      │
+      ▼
 Amazon S3 Bucket
-↓
+      │
+      ▼
 Static Website Hosting
-↓
-Website Content (HTML, CSS, JS, Images)
+      │
+      ▼
+Foodie Website
+(HTML, CSS, JavaScript, Images)
+```
+
+---
+
+## Folder Structure
+
+```text
+AWS-S3-Static-Website-Hosting/
+│
+├── cloudss/
+│   ├── region-selected.png
+│   ├── s3-bucket-created.png
+│   ├── website-files-uploaded.png
+│   ├── static-website-hosting-enabled.png
+│   ├── bucket-policy-configured.png
+│   ├── 403-access-denied.png
+│   ├── website-hosted-successfully.png
+│   └── failed-to-delete.png
+│
+├── icons/
+│   └── website icons
+│
+├── images/
+│   └── website images
+│
+├── index.html
+├── style.css
+├── script.js
+├── manifest.json
+├── service-worker.js
+│
+├── README.md
+└── LICENSE
+```
+
 
 ---
 
@@ -73,38 +113,6 @@ Website Content (HTML, CSS, JS, Images)
 8. Fixed Access Denied (403) Issues.
 9. Successfully Hosted Website.
 10. Deleted AWS Resources after completion.
-
----
-
-## Project Structure
-
-AWS-S3-Static-Website-Hosting/
-│
-├── README.md
-├── LICENSE
-│
-├── cloudss/
-│   ├── s3-bucket-created.png
-│   ├── website-files-uploaded.png
-│   ├── static-website-hosting-enabled.png
-│   ├── bucket-policy-configured.png
-│   ├── 403-access-denied.png
-│   ├── website-hosted-successfully.png
-│   ├── region-selected.png
-│   └── failed-to-delete.png
-│
-├── images/
-│   └── website images
-│
-├── icons/
-│   └── website icons
-│
-├── index.html
-├── style.css
-├── script.js
-├── manifest.json
-├── service-worker.js
-
 
 ---
 ## Screenshots
