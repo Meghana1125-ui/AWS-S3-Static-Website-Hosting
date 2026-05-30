@@ -107,34 +107,31 @@ AWS-S3-Static-Website-Hosting/
 
 
 ---
-
-
 ## Screenshots
 
-### S3 Bucket Created
-![S3 Bucket Created](cloudss/s3-bucket-created.png)
-
-### Website Files Uploaded
-![Website Files Uploaded](cloudss/website-files-uploaded.png)
-
-### Static Website Hosting Enabled
-![Static Website Hosting Enabled](cloudss/static-website-hosting-enabled.png)
-
-### Bucket Policy Configured
-![Bucket Policy Configured](cloudss/bucket-policy-configured.png)
-
-### 403 Access Denied Error
-![403 Error](cloudss/403-access-denied.png)
-
-### Website Hosted Successfully
-![Website Hosted Successfully](cloudss/website-hosted-successfully.png)
-
-### Region Selected
+### 1. Region Selected
 ![Region Selected](cloudss/region-selected.png)
 
-### Resource Cleanup
-![Resource Cleanup](cloudss/failed-to-delete.png)
+### 2. S3 Bucket Created
+![S3 Bucket Created](cloudss/s3-bucket-created.png)
 
+### 3. Website Files Uploaded
+![Website Files Uploaded](cloudss/website-files-uploaded.png)
+
+### 4. Static Website Hosting Enabled
+![Static Website Hosting Enabled](cloudss/static-website-hosting-enabled.png)
+
+### 5. Bucket Policy Configured
+![Bucket Policy Configured](cloudss/bucket-policy-configured.png)
+
+### 6. 403 Access Denied Error
+![403 Error](cloudss/403-access-denied.png)
+
+### 7. Website Hosted Successfully
+![Website Hosted Successfully](cloudss/website-hosted-successfully.png)
+
+### 8. Resource Cleanup
+![Resource Cleanup](cloudss/failed-to-delete.png)
 
 ---
 
