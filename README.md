@@ -108,6 +108,36 @@ AWS-S3-Static-Website-Hosting/
 
 ---
 
+
+## Screenshots
+
+### S3 Bucket Created
+![S3 Bucket Created](cloudss/s3-bucket-created.png)
+
+### Website Files Uploaded
+![Website Files Uploaded](cloudss/website-files-uploaded.png)
+
+### Static Website Hosting Enabled
+![Static Website Hosting Enabled](cloudss/static-website-hosting-enabled.png)
+
+### Bucket Policy Configured
+![Bucket Policy Configured](cloudss/bucket-policy-configured.png)
+
+### 403 Access Denied Error
+![403 Error](cloudss/403-access-denied.png)
+
+### Website Hosted Successfully
+![Website Hosted Successfully](cloudss/website-hosted-successfully.png)
+
+### Region Selected
+![Region Selected](cloudss/region-selected.png)
+
+### Resource Cleanup
+![Resource Cleanup](cloudss/failed-to-delete.png)
+
+
+---
+
 ## How to Run Locally
 
 1. Clone the repository
