@@ -2,9 +2,10 @@
 
 ## Live Demo
 
-Static Website hosted using Amazon S3.
+Website was successfully hosted using Amazon S3 Static Website Hosting.
 
-Website URL: [Add your S3 Website Endpoint URL here]
+Endpoint Used:
+http://meghana-website-project.s3-website.ap-south-2.amazonaws.com
 
 ---
 
