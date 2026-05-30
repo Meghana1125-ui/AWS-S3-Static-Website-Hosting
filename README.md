@@ -1,11 +1,13 @@
-# AWS S3 Static Website Hosting
+#☁️ AWS S3 Static Website Hosting
 
-## Live Demo
+##🔗 Live Demo
 
 Website was successfully hosted using Amazon S3 Static Website Hosting.
 
 Endpoint Used:
 http://meghana-website-project.s3-website.ap-south-2.amazonaws.com
+
+Note: The S3 bucket was deleted after project completion as part of resource cleanup and AWS cost-management best practices.
 
 ---
 
@@ -23,32 +25,31 @@ The primary objective of this project was to understand AWS S3 hosting, bucket p
 
 ---
 
-## Features
-
-* Static website hosting using Amazon S3
-* Public website accessibility
-* Bucket policy configuration
-* Static Website Hosting configuration
-* Cloud-based deployment
-* Resource cleanup after deployment
+## ✨ Features
+☁️ Static Website Hosting using Amazon S3
+🌍 Public Website Accessibility
+🔒 Bucket Policy Configuration
+⚙️ Static Website Hosting Setup
+🚀 Cloud-Based Deployment
+💰 Resource Cleanup After Deployment
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 * HTML5
 * CSS3
 * JavaScript
 
-### Cloud Services
+### ☁️ Cloud Services
 
 * Amazon S3
 * AWS IAM
 * AWS Management Console
 
-### Version Control
+### 🔄 Version Control
 
 * Git
 * GitHub
@@ -73,7 +74,7 @@ Foodie Website
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
 ```text
 AWS-S3-Static-Website-Hosting/
@@ -109,19 +110,28 @@ AWS-S3-Static-Website-Hosting/
 
 ## Deployment Steps
 
-1. Created an Amazon S3 Bucket.
-2. Uploaded website files.
-3. Enabled Static Website Hosting.
-4. Configured Index Document.
-5. Updated Public Access Settings.
-6. Added Bucket Policy.
-7. Tested Website Endpoint.
-8. Fixed Access Denied (403) Issues.
-9. Successfully Hosted Website.
-10. Deleted AWS Resources after completion.
+1️⃣ Created an Amazon S3 Bucket
+
+2️⃣ Uploaded Website Files
+
+3️⃣ Enabled Static Website Hosting
+
+4️⃣ Configured Index Document
+
+5️⃣ Updated Public Access Settings
+
+6️⃣ Added Bucket Policy
+
+7️⃣ Tested Website Endpoint
+
+8️⃣ Fixed 403 Access Denied Error
+
+9️⃣ Successfully Hosted Website
+
+🔟 Deleted AWS Resources After Completion
 
 ---
-## Screenshots
+## 📸 Screenshots
 
 ### 1. Region Selected
 ![Region Selected](cloudss/region-selected.png)
@@ -169,7 +179,7 @@ cd AWS-S3-Static-Website-Hosting
 
 ## Challenges Faced
 
-### Access Denied (403 Error)
+### 🚫 Access Denied (403 Error)
 
 Issue:
 
@@ -189,14 +199,14 @@ Solution:
 
 ---
 
-## Note
+## 📝 Note
 
 All AWS resources used in this project were deleted after successful testing and deployment to avoid unnecessary charges and follow cloud cost-management best practices.
 
 ---
 
 
-## Learning Outcomes
+## 🎯 Learning Outcomes
 
 * Amazon S3 Fundamentals
 * Static Website Hosting
@@ -208,7 +218,7 @@ All AWS resources used in this project were deleted after successful testing and
 
 ---
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 * Deploy using CloudFront
 * Configure Route 53 custom domain
@@ -218,7 +228,7 @@ All AWS resources used in this project were deleted after successful testing and
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 Meghana Paradeshi
 
@@ -228,6 +238,6 @@ GitHub: https://github.com/meghana1125-ui
 
 ---
 
-## Support
+## ⭐Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
