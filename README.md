@@ -1,6 +1,6 @@
-#☁️ AWS S3 Static Website Hosting
+# ☁️ AWS S3 Static Website Hosting
 
-##🔗 Live Demo
+## 🔗 Live Demo
 
 Website was successfully hosted using Amazon S3 Static Website Hosting.
 
@@ -26,6 +26,7 @@ The primary objective of this project was to understand AWS S3 hosting, bucket p
 ---
 
 ## ✨ Features
+
 ☁️ Static Website Hosting using Amazon S3
 🌍 Public Website Accessibility
 🔒 Bucket Policy Configuration
